@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sayloud-app/static/css/main.e2ea93d5.chunk.css",
+    "main.js": "/sayloud-app/static/js/main.f6660d24.chunk.js",
+    "main.js.map": "/sayloud-app/static/js/main.f6660d24.chunk.js.map",
+    "runtime-main.js": "/sayloud-app/static/js/runtime-main.1fea8c54.js",
+    "runtime-main.js.map": "/sayloud-app/static/js/runtime-main.1fea8c54.js.map",
+    "static/js/2.8fe359a3.chunk.js": "/sayloud-app/static/js/2.8fe359a3.chunk.js",
+    "static/js/2.8fe359a3.chunk.js.map": "/sayloud-app/static/js/2.8fe359a3.chunk.js.map",
+    "index.html": "/sayloud-app/index.html",
+    "static/css/main.e2ea93d5.chunk.css.map": "/sayloud-app/static/css/main.e2ea93d5.chunk.css.map",
+    "static/js/2.8fe359a3.chunk.js.LICENSE.txt": "/sayloud-app/static/js/2.8fe359a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fea8c54.js",
+    "static/js/2.8fe359a3.chunk.js",
+    "static/css/main.e2ea93d5.chunk.css",
+    "static/js/main.f6660d24.chunk.js"
+  ]
+}
